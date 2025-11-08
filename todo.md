@@ -46,5 +46,5 @@
 
 ## Bug Fixes
 
-- [x] Fix favicon 404 errors on Vercel deployment
-- [x] Ensure HTML meta tags are properly configured
+- [ ] Fix favicon 404 errors on Vercel deployment
+- [ ] Ensure HTML meta tags are properly configured
